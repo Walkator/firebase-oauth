@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Playground</string>
+    <string name="prefs_file">com.firebaseoauth.waniapps.firebase.PREFERENCE_FILE_KEY</string>
+    <string name="txtForgotPassword"><u>Forgot Password?</u></string>
+    <string name="txtCreateAccount">Don’t have an account? <font fgcolor='#240046'><b><u>Sign up</u></b></font></string>
+    <string name="txtSignIn">Already have an account? <font fgcolor='#240046'><b><u>Sign in</u></b></font></string>
+    <string name="txtTerms">Agree to <font fgcolor='#240046'><b><u>Terms &amp; Conditions</u></b></font></string>
+    <string name="btnLogInGoogle">Log in with Google</string>
+    <string name="btnSignUpEmail">REGISTER WITH EMAIL</string>
+    <string name="txtFirstName">First Name</string>
+    <string name="txtLastName">Last Name</string>
+    <string name="txtEmail">Email</string>
+    <string name="txtPassword">Password</string>
+    <string name="txtRepeatPassword">Repeat password</string>
+    <string name="txtLoginEamil">LOG IN WITH EMAIL</string>
+    <string name="txtSignUp">Sign Up</string>
+    <string name="txtLogIn">Log In</string>
+    <string name="txtTermsAndConditions">Terms and Conditions</string>
+    <string name="btnTermsAccept">Accept</string>
+    <string name="termsAndConditons">
+        <u>Introduction\n</u>
+        <p> These Terms will be applied fully and affect to your use of this Website. By using this Website, you agreed to accept all terms and conditions written in here. You must not use this Website if you disagree with any of these Website Standard Terms and Conditions.\n</p>
+        <p>Minors or people below 18 years old are not allowed to use this Website.\n</p>
+        <u>Intellectual Property Rights\n</u>
+        <p>Other than the content you own, under these Terms, Wani Apps and/or its licensors own all the intellectual property rights and materials contained in this Website.\n</p>
+        <p>You are granted limited license only for purposes of viewing the material contained on this Website.\n\n</p>
+        <u>Restrictions\n</u>
+        <p> You are specifically restricted from all of the following:\n</p>
+            <p>    -publishing any Website material in any other media;\n</p>
+            <p>    -selling, sublicensing and/or otherwise commercializing any Website material;\n</p>
+            <p>    -publicly performing and/or showing any Website material;\n</p>
+            <p>    -using this Website in any way that is or may be damaging to this Website;\n</p>
+            <p>    -using this Website in any way that impacts user access to this Website;\n</p>
+            <p>    -using this Website contrary to applicable laws and regulations, or in any way may cause harm to the Website, or to any person or business entity;\n</p>
+            <p>    -engaging in any data mining, data harvesting, data extracting or any other similar activity in relation to this Website;\n</p>
+            <p>    -using this Website to engage in any advertising or marketing.\n</p>
+        <p>Certain areas of this Website are restricted from being access by you and Wani Apps may further restrict access by you to any areas of this Website, at any time, in absolute discretion. Any user ID and password you may have for this Website are confidential and you must maintain confidentiality as well.\n\n</p>
+        <u>Your Content\n</u>
+        <p> In these Website Standard Terms and Conditions, "Your Content" shall mean any audio, video text, images or other material you choose to display on this Website. By displaying Your Content, you grant Wani Apps a non-exclusive, worldwide irrevocable, sub licensable license to use, reproduce, adapt, publish, translate and distribute it in any and all media.\n</p>
+        <p>Your Content must be your own and must not be invading any third-party’s rights. Wani Apps reserves the right to remove any of Your Content from this Website at any time without notice.\n\n</p>
+        <u>Your Privacy\n</u>
+        <p> Please read Privacy Policy.\n\n</p>
+        <u>No warranties\n</u>
+        <p> This Website is provided "as is," with all faults, and Wani Apps express no representations or warranties, of any kind related to this Website or the materials contained on this Website. Also, nothing contained on this Website shall be interpreted as advising you.\n\n</p>
+        <u>Limitation of liability\n</u>
+        <p> In no event shall Wani Apps, nor any of its officers, directors and employees, shall be held liable for anything arising out of or in any way connected with your use of this Website whether such liability is under contract. Wani Apps, including its officers, directors and employees shall not be held liable for any indirect, consequential or special liability arising out of or in any way related to your use of this Website.\n\n</p>
+        <u>Indemnification\n</u>
+        <p> You hereby indemnify to the fullest extent Wani Apps from and against any and/or all liabilities, costs, demands, causes of action, damages and expenses arising in any way related to your breach of any of the provisions of these Terms.\n\n</p>
+        <u>Severability\n</u>
+        <p> If any provision of these Terms is found to be invalid under any applicable law, such provisions shall be deleted without affecting the remaining provisions herein.\n\n</p>
+        <u>Variation of Terms\n</u>
+        <p> Wani Apps is permitted to revise these Terms at any time as it sees fit, and by using this Website you are expected to review these Terms on a regular basis.\n\n</p>
+        <u>Assignment\n</u>
+        <p> The Wani Apps is allowed to assign, transfer, and subcontract its rights and/or obligations under these Terms without any notification. However, you are not allowed to assign, transfer, or subcontract any of your rights and/or obligations under these Terms.\n\n</p>
+        <u>Entire Agreement\n</u>
+        <p> These Terms constitute the entire agreement between Wani Apps and you in relation to your use of this Website, and supersede all prior agreements and understandings.\n\n</p>
+        <u>Governing Law &amp; Jurisdiction\n</u>
+        <p> These Terms will be governed by and interpreted in accordance with the laws of the State of af, and you submit to the non-exclusive jurisdiction of the state and federal courts located in af for the resolution of any disputes.\n\n</p>
+    </string>
+    <string name="btnResetPassword">Reset password</string>
+    <string name="txtResetPassword">Reset password</string>
+    <string name="btnLogOut">Log Out!</string>
+</resources>
